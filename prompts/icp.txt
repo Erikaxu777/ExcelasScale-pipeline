@@ -1,0 +1,145 @@
+Develop an ICP and prospect-search plan for Excelas Scale.
+
+The plan will guide a subsequent workflow that finds five named
+professionals in the UK data-centre industry and can later expand
+to fifty prospects.
+
+PRODUCT CONTEXT
+
+Excelas Scale helps technical teams record and review equipment
+installation and site work using video, audio and sensor data.
+
+AI assists the review process, while humans make the final decisions.
+
+Ground proposed use cases in these capabilities. Describe potential
+problems and benefits as hypotheses requiring validation.
+
+TARGET COMPANIES
+
+Focus on organisations serving UK data-centre projects, including:
+- Data-centre operators.
+- Installation and construction contractors.
+- Electrical and structured-cabling contractors.
+- Commissioning and technical-assurance firms.
+
+Prioritise organisations whose work involves installation inspection,
+testing, defect resolution, acceptance or operational handover.
+
+FOUR SEARCH DIRECTIONS
+
+Use the four role families specified in the task.
+
+1. Installation QA/QC
+
+People who define inspection requirements, manage installation quality,
+review defects or assess evidence before acceptance.
+
+Relevant responsibilities may include quality assurance processes,
+inspection plans, field inspections and corrective-work verification.
+
+2. Electrical
+
+People who execute, supervise or evaluate electrical installation,
+testing and verification.
+
+Relevant responsibilities may include installation inspection,
+commissioning evidence, readiness reviews and electrical acceptance.
+
+3. Cabling
+
+People who execute, supervise or evaluate structured cabling and
+fibre installation.
+
+Relevant responsibilities may include routing, labelling, terminations,
+test records, as-built documentation and handover.
+
+4. Operations
+
+People responsible for live-site work, operational acceptance,
+maintenance or the use of installation and handover records.
+
+Relevant responsibilities may include reviewing site changes,
+accepting completed work and resolving operational handback questions.
+
+RESPONSIBILITY MATCHING
+
+Match people using documented responsibilities.
+
+Consider potential hands-on users, technical evaluators and internal
+sponsors. Treat purchasing authority as a separate qualification question.
+
+A person may match several search directions. Commissioning can overlap
+with electrical work, quality review and operations.
+
+Combine candidates across searches and deduplicate them. Select five
+people from five different companies, with at most one person per
+company. Prioritise responsibility fit and evidence quality within each
+company, allowing overlap between role families.
+
+UK RELEVANCE
+
+Give highest priority to evidence that the individual manages UK
+projects or has an explicit UK delivery or operations remit.
+
+EMEA or global roles at companies with UK data-centre projects may
+remain relevant. Flag the individual's UK project responsibility
+as requiring confirmation when evidence is only at company level.
+
+Distinguish UK location, company project coverage and personal
+project responsibility when evaluating sources.
+
+CONTACTABILITY
+
+Prioritise publicly published work emails as the primary contact route.
+Collect a matched personal LinkedIn profile as a supplementary channel.
+Keep unavailable contact details unknown.
+
+SEARCH PLAN
+
+For each role family, provide:
+- Three to five relevant responsibilities.
+- Two or three testable pain hypotheses.
+- Three to five realistic job titles, including common variants.
+- Three or four English search queries.
+
+Each pain hypothesis should connect a responsibility to a specific
+installation-evidence or human-review problem worth investigating.
+
+Queries should combine role or responsibility terms with data-centre
+terms and UK scope. Include queries likely to surface employer
+biographies, team pages and named project references.
+
+RETURN THIS STRUCTURE
+
+{
+  "segments": [
+    {
+      "segment": "Installation QA/QC",
+      "responsibilities": [],
+      "pain_hypotheses": [],
+      "target_titles": [],
+      "search_queries": []
+    },
+    {
+      "segment": "Electrical",
+      "responsibilities": [],
+      "pain_hypotheses": [],
+      "target_titles": [],
+      "search_queries": []
+    },
+    {
+      "segment": "Cabling",
+      "responsibilities": [],
+      "pain_hypotheses": [],
+      "target_titles": [],
+      "search_queries": []
+    },
+    {
+      "segment": "Operations",
+      "responsibilities": [],
+      "pain_hypotheses": [],
+      "target_titles": [],
+      "search_queries": []
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+record_id,email,first_name,last_name,company,secondary_emails,prospect_id,company_domain
+1001,alice@example.com,Alice,Example,Example Infrastructure,,p_c8e3c44ccd8138c8,example.com

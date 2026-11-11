@@ -1,0 +1,435 @@
+{
+  "kind": "synthetic",
+  "collected_at": "2026-01-01",
+  "records": [
+    {
+      "candidate": {
+        "first_name": "Alice",
+        "last_name": "Example",
+        "job_title": "Electrical Installation Manager",
+        "company": "Example Infrastructure",
+        "company_domain": "example.com",
+        "segment": "Electrical",
+        "evidence": [
+          {
+            "kind": "identity",
+            "url": "https://example.com/team/alice",
+            "title": "Fictional biography",
+            "note": "Demo record for Alice Example."
+          },
+          {
+            "kind": "duties",
+            "url": "https://example.com/team/alice",
+            "title": "Fictional biography",
+            "note": "Demo role reviews installation records.",
+            "scope": "Person",
+            "excerpt": "Demo role reviews installation records.",
+            "excerpt_locator": "Fictional biography",
+            "excerpt_status": "Synthetic fixture",
+            "retrieved_at": "2026-01-01"
+          },
+          {
+            "kind": "uk_scope",
+            "url": "https://example.com/projects",
+            "title": "Fictional project",
+            "note": "Demo UK data centre."
+          },
+          {
+            "kind": "company_signal",
+            "url": "https://example.com/projects",
+            "title": "Fictional project",
+            "note": "Demo project announcement."
+          },
+          {
+            "kind": "contact_route",
+            "url": "https://example.com/contact",
+            "title": "Fictional form",
+            "note": "Demo contact route."
+          }
+        ],
+        "contacts": [
+          {
+            "kind": "Work email",
+            "value": "alice@example.com",
+            "source_url": "https://example.com/team/alice",
+            "identity_status": "Matched",
+            "identity_note": "The fictional biography explicitly publishes this demo work email.",
+            "publication_excerpt": "alice@example.com",
+            "verification_status": "Synthetic fixture"
+          }
+        ]
+      },
+      "analysis": {
+        "why_fit": {
+          "status": "Inference",
+          "note": "This fictional role reviews demo installation records. A proposed demonstration records site observations for human review. The demo reviewer could inspect the recorded context. The record is synthetic and supplies no evidence of actual demand.",
+          "urls": [
+            "https://example.com/team/alice"
+          ]
+        },
+        "budget": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "authority": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "need": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "timing": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        }
+      }
+    },
+    {
+      "candidate": {
+        "first_name": "Ben",
+        "last_name": "Example",
+        "job_title": "Commissioning Manager",
+        "company": "Example Engineering",
+        "company_domain": "example.org",
+        "segment": "Commissioning",
+        "evidence": [
+          {
+            "kind": "identity",
+            "url": "https://example.com/team/ben",
+            "title": "Fictional biography",
+            "note": "Demo record for Ben Example."
+          },
+          {
+            "kind": "duties",
+            "url": "https://example.com/team/ben",
+            "title": "Fictional biography",
+            "note": "Demo role reviews installation records.",
+            "scope": "Person",
+            "excerpt": "Demo role reviews installation records.",
+            "excerpt_locator": "Fictional biography",
+            "excerpt_status": "Synthetic fixture",
+            "retrieved_at": "2026-01-01"
+          },
+          {
+            "kind": "uk_scope",
+            "url": "https://example.com/projects",
+            "title": "Fictional project",
+            "note": "Demo UK data centre."
+          },
+          {
+            "kind": "company_signal",
+            "url": "https://example.com/projects",
+            "title": "Fictional project",
+            "note": "Demo project announcement."
+          },
+          {
+            "kind": "contact_route",
+            "url": "https://example.com/contact",
+            "title": "Fictional form",
+            "note": "Demo contact route."
+          }
+        ],
+        "contacts": [
+          {
+            "kind": "Work email",
+            "value": "ben@example.org",
+            "source_url": "https://example.com/team/ben",
+            "identity_status": "Matched",
+            "identity_note": "The fictional biography explicitly publishes this demo work email.",
+            "publication_excerpt": "ben@example.org",
+            "verification_status": "Synthetic fixture"
+          }
+        ]
+      },
+      "analysis": {
+        "why_fit": {
+          "status": "Inference",
+          "note": "This fictional role reviews demo installation records. A proposed demonstration records site observations for human review. The demo reviewer could inspect the recorded context. The record is synthetic and supplies no evidence of actual demand.",
+          "urls": [
+            "https://example.com/team/ben"
+          ]
+        },
+        "budget": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "authority": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "need": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "timing": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        }
+      }
+    },
+    {
+      "candidate": {
+        "first_name": "Chris",
+        "last_name": "Example123",
+        "job_title": "Quality Control Lead",
+        "company": "Example Commissioning",
+        "company_domain": "bad_domain",
+        "segment": "QC",
+        "evidence": [
+          {
+            "kind": "identity",
+            "url": "https://example.com/team/chris",
+            "title": "Fictional biography",
+            "note": "Demo record for Chris Example."
+          },
+          {
+            "kind": "duties",
+            "url": "https://example.com/team/chris",
+            "title": "Fictional biography",
+            "note": "Demo role reviews installation records.",
+            "scope": "Person",
+            "excerpt": "Demo role reviews installation records.",
+            "excerpt_locator": "Fictional biography",
+            "excerpt_status": "Synthetic fixture",
+            "retrieved_at": "2026-01-01"
+          },
+          {
+            "kind": "uk_scope",
+            "url": "https://example.com/projects",
+            "title": "Fictional project",
+            "note": "Demo UK data centre."
+          },
+          {
+            "kind": "company_signal",
+            "url": "https://example.com/projects",
+            "title": "Fictional project",
+            "note": "Demo project announcement."
+          },
+          {
+            "kind": "contact_route",
+            "url": "https://example.com/contact",
+            "title": "Fictional form",
+            "note": "Demo contact route."
+          }
+        ],
+        "contacts": [
+          {
+            "kind": "Company form",
+            "value": "https://example.com/contact",
+            "source_url": "https://example.com/contact",
+            "identity_status": "Matched",
+            "identity_note": "Synthetic employer form"
+          }
+        ]
+      },
+      "analysis": {
+        "why_fit": {
+          "status": "Inference",
+          "note": "This fictional role reviews demo installation records. A proposed demonstration records site observations for human review. The demo reviewer could inspect the recorded context. The record is synthetic and supplies no evidence of actual demand.",
+          "urls": [
+            "https://example.com/team/chris"
+          ]
+        },
+        "budget": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "authority": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "need": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "timing": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        }
+      }
+    },
+    {
+      "candidate": {
+        "first_name": "Dana",
+        "last_name": "Example",
+        "job_title": "Operations Lead",
+        "company": "Example Cabling",
+        "company_domain": "cabling.example",
+        "segment": "Operations",
+        "evidence": [
+          {
+            "kind": "identity",
+            "url": "https://example.com/team/dana",
+            "title": "Fictional biography",
+            "note": "Demo record for Dana Example."
+          },
+          {
+            "kind": "duties",
+            "url": "https://example.com/team/dana",
+            "title": "Fictional biography",
+            "note": "Demo role reviews installation records.",
+            "scope": "Person",
+            "excerpt": "Demo role reviews installation records.",
+            "excerpt_locator": "Fictional biography",
+            "excerpt_status": "Synthetic fixture",
+            "retrieved_at": "2026-01-01"
+          },
+          {
+            "kind": "uk_scope",
+            "url": "https://example.com/projects",
+            "title": "Fictional project",
+            "note": "Demo UK data centre."
+          },
+          {
+            "kind": "company_signal",
+            "url": "https://example.com/projects",
+            "title": "Fictional project",
+            "note": "Demo project announcement."
+          },
+          {
+            "kind": "contact_route",
+            "url": "https://example.com/contact",
+            "title": "Fictional form",
+            "note": "Demo contact route."
+          }
+        ],
+        "contacts": [
+          {
+            "kind": "Company form",
+            "value": "https://example.com/contact",
+            "source_url": "https://example.com/contact",
+            "identity_status": "Matched",
+            "identity_note": "Synthetic employer form"
+          }
+        ]
+      },
+      "analysis": {
+        "why_fit": {
+          "status": "Inference",
+          "note": "This fictional role reviews demo installation records. A proposed demonstration records site observations for human review. The demo reviewer could inspect the recorded context. The record is synthetic and supplies no evidence of actual demand.",
+          "urls": [
+            "https://example.com/team/dana"
+          ]
+        },
+        "budget": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "authority": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "need": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "timing": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        }
+      }
+    },
+    {
+      "candidate": {
+        "first_name": "Ellis",
+        "last_name": "Example",
+        "job_title": "Cabling Manager",
+        "company": "Example Operations",
+        "company_domain": "operations.example",
+        "segment": "Cabling",
+        "evidence": [
+          {
+            "kind": "identity",
+            "url": "https://example.com/team/ellis",
+            "title": "Fictional biography",
+            "note": "Demo record for Ellis Example."
+          },
+          {
+            "kind": "duties",
+            "url": "https://example.com/team/ellis",
+            "title": "Fictional biography",
+            "note": "Demo role reviews installation records.",
+            "scope": "Person",
+            "excerpt": "Demo role reviews installation records.",
+            "excerpt_locator": "Fictional biography",
+            "excerpt_status": "Synthetic fixture",
+            "retrieved_at": "2026-01-01"
+          },
+          {
+            "kind": "uk_scope",
+            "url": "https://example.com/projects",
+            "title": "Fictional project",
+            "note": "Demo UK data centre."
+          },
+          {
+            "kind": "company_signal",
+            "url": "https://example.com/projects",
+            "title": "Fictional project",
+            "note": "Demo project announcement."
+          },
+          {
+            "kind": "contact_route",
+            "url": "https://example.com/contact",
+            "title": "Fictional form",
+            "note": "Demo contact route."
+          }
+        ],
+        "contacts": [
+          {
+            "kind": "Company form",
+            "value": "https://example.com/contact",
+            "source_url": "https://example.com/contact",
+            "identity_status": "Matched",
+            "identity_note": "Synthetic employer form"
+          }
+        ]
+      },
+      "analysis": {
+        "why_fit": {
+          "status": "Inference",
+          "note": "This fictional role reviews demo installation records. A proposed demonstration records site observations for human review. The demo reviewer could inspect the recorded context. The record is synthetic and supplies no evidence of actual demand.",
+          "urls": [
+            "https://example.com/team/ellis"
+          ]
+        },
+        "budget": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "authority": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "need": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        },
+        "timing": {
+          "status": "Unknown",
+          "note": "No evidence in fixture.",
+          "urls": []
+        }
+      }
+    }
+  ]
+}
